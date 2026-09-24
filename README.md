@@ -1,17 +1,28 @@
-# Hi, I'm Sethupathi Selvalingam👋
+# Hi, I’m Sethupathi Selvalingam
 
-Aspiring AI Engineer building RAG pipelines, agents and computer vision.
-Former research chemist: I treat every model like an experiment and test the claim against the evidence.
+### AI Engineer building practical systems with RAG, agents, and computer vision
 
-## Featured projects
-- **[Research RAG Agent](https://github.com/Sethupathi1105/rag-agent-vertexai)**: LangGraph + Vertex AI + Groq on GCP
-- **[RAG Document Intelligence Chatbot](https://github.com/Sethupathi1105/Retrieval-Augmented-Generation-Chatbot)**: LangChain + FAISS, answers questions from your own documents
-- **[Invoice OCR Extractor](https://github.com/Sethupathi1105/Invoice-OCR-Extractor-IBM-watsonx.ai)**: IBM watsonx.ai vision model to structured invoice data
-- **[Multimedia Recommendation Engine](https://github.com/Sethupathi1105/Multimedia-Recommendation-Engine)**: TF-IDF + cosine similarity + KNN on 4000+ movies, Flask UI
-- **[Retail Analytics Dashboard](https://github.com/Sethupathi1105/Retail-Analytics-Dashboard)**: ML + Streamlit
+I’m a former research chemist who brings an experimental mindset to AI engineering: form a hypothesis, test it against evidence, and improve the system based on what works.
 
-## Stack
-LangChain · LangGraph · ChromaDB · FAISS · Groq · GCP Vertex AI · IBM watsonx.ai · Flask · Streamlit · scikit-learn
+I build applications that connect language models and machine learning to real workflows—from document intelligence to recommendation systems and analytics.
 
-## Contact
-[LinkedIn](https://linkedin.com/in/sethupathi-selvalingam) · sethupathiselvalingam7@gmail.com
+## Selected Projects
+
+| Project | What it does | Technologies |
+|---|---|---|
+| [Research RAG Agent](https://github.com/Sethupathi1105/rag-agent-vertexai) | Agentic research workflow built around retrieval and question answering | LangGraph · Vertex AI · Groq |
+| [Invoice OCR Extractor](https://github.com/Sethupathi1105/Invoice-OCR-Extractor-IBM-watsonx.ai) | Extracts structured information from invoices using a vision model | IBM watsonx.ai |
+| [RAG Document Intelligence Chatbot](https://github.com/Sethupathi1105/Retrieval-Augmented-Generation-Chatbot) | Lets users ask questions about their own documents | LangChain · FAISS |
+| [Multimedia Recommendation Engine](https://github.com/Sethupathi1105/Multimedia-Recommendation-Engine) | Recommends movies using a dataset of 4,000+ titles | TF-IDF · cosine similarity · KNN · Flask |
+| [Retail Analytics Dashboard](https://github.com/Sethupathi1105/Retail-Analytics-Dashboard) | Explores retail data through machine-learning analysis and interactive dashboards | Streamlit · scikit-learn |
+
+## Technical Focus
+
+- **AI systems:** Retrieval-augmented generation, agent workflows, document understanding
+- **Machine learning:** Computer vision, recommendation systems, scikit-learn
+- **Tools:** LangChain, LangGraph, FAISS, ChromaDB, Vertex AI, Groq, IBM watsonx.ai
+- **Applications:** Python, Flask, Streamlit
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/sethupathi-selvalingam) · [Email](mailto:sethupathiselvalingam7@gmail.com)
