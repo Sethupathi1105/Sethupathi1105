@@ -1,4 +1,4 @@
-# Hi, I'm Sethupathi 👋
+# Hi, I'm Sethupathi Selvalingam👋
 
 Aspiring AI Engineer building RAG pipelines, agents and computer vision.
 Former research chemist: I treat every model like an experiment and test the claim against the evidence.
